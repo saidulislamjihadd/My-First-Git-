@@ -1,0 +1,23 @@
+First commit
+=======================
+git init  ( Init folder at Git ) 
+git add .  ( Add changes or new file in local Git )
+git commit -m " --message-- "  ( write your message aboute this commit or changes )
+git remote add origin https://github.com/....  ( Add origin on my local git ) 
+git push origin master ( Upload changes to my remote git )
+
+
+
+====================
+After First commit
+==================== 
+git status ( Check status of changes with local git )
+git add .  ( Add changes or new file in local Git )
+git commit -m " --message-- "  ( write your message aboute this commit or changes ) 
+git push origin master ( Upload changes to my remote git )
+
+
+=======================
+git status ( Check status of changes with local git )
+git remote show origin ( Check status of changes with remote git )
+git pull origin master ( Download update from my remote git )
