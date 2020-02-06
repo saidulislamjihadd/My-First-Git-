@@ -20,4 +20,5 @@ git push origin master ( Upload changes to my remote git )
 =======================
 git status ( Check status of changes with local git )
 git remote show origin ( Check status of changes with remote git )
+git clone https://github.com/.... ( Copy the project from remote git )
 git pull origin master ( Download update from my remote git )
